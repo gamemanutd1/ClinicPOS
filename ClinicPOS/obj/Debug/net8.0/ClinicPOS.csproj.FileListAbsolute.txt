@@ -265,3 +265,4 @@ D:\Game\aura\ClinicPOS\ClinicPOS\obj\Debug\net8.0\refint\ClinicPOS.dll
 D:\Game\aura\ClinicPOS\ClinicPOS\obj\Debug\net8.0\ClinicPOS.pdb
 D:\Game\aura\ClinicPOS\ClinicPOS\obj\Debug\net8.0\ClinicPOS.genruntimeconfig.cache
 D:\Game\aura\ClinicPOS\ClinicPOS\obj\Debug\net8.0\ref\ClinicPOS.dll
+D:\Game\aura\ClinicPOS\ClinicPOS\obj\Debug\net8.0\ClinicPOS.sourcelink.json

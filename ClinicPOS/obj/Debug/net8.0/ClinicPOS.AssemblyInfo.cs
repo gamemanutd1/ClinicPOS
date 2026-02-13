@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClinicPOS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae9007390b13a605dc8e4f3e3e1035392e8bc972")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClinicPOS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClinicPOS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
